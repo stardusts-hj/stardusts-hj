@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stardusts-hj
-- 👀 I’m interested in cv, application of deep learning the field of communication
+- 👀 I’m interested in cv, application of event camera
 - 🌱 I’m currently learning semantic segmentaion, style transfer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
